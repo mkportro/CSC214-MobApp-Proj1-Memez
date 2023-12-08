@@ -1,0 +1,12 @@
+/* 
+  Localizable.strings
+  Memez
+
+  Created by MaKayla Ortega Robinson on 7/16/23.
+  
+*/
+
+"show"                  = "Show me some";
+"singularCount"         = "Since launch we showed you %d meme.";
+"pluralCount"           = "Since launch we showed you %d memes.";
+"reset"                 = "Reset Count";
